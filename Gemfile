@@ -12,3 +12,4 @@ gem 'activerecord', "~>5.2.3"
 gem 'sinatra-activerecord'
 gem 'rest-client'
 gem 'ruby2d'
+gem 'tty-prompt'

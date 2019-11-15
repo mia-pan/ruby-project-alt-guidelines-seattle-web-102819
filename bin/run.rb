@@ -12,4 +12,5 @@ require_relative "../lib/command_line_interface.rb"
 # end 
 cli = CommandLineInterface.new
 #cli.greet 
-cli.get_solution_from_health
+#cli.get_solution_from_health
+cli.sign_up 
